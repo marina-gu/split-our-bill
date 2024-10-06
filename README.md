@@ -36,8 +36,9 @@ function  calculateAmount(e) {
   ----
 
 ### Open [link](https://split-ourbill-project.glitch.me/) to view it in your browser.
+----
 
-![gif]()
+![gif](https://github.com/marina-gu/split-our-bill/blob/main/IMG_1379.gif)
 
   
 
